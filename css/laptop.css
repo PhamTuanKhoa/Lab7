@@ -1,0 +1,49 @@
+.banner-mid img{
+    height: 150px;
+    cursor: pointer;
+}
+.laptop-icon {
+    background-color: #080312;
+    margin: 0 auto;
+    text-align: center;
+    height: auto;
+    padding: 10px;
+}
+
+.laptop-icon img{
+    border-radius: 40px;
+    background-color: white;
+}
+.laptop-tag{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+}
+.laptop-item{
+    width: 100px;
+    height: 100px;
+    background-color: #f1f1f1;
+    margin: 10px;
+    border-radius: 50%;
+    text-align: center;
+    color: #01415b;
+}
+.laptop-item:hover{
+    background-color: yellow;
+}
+.laptop-item-icon{
+    font-size: 50px;
+}
+.laptop-item-title{
+    margin: 5px;
+    font-weight: bold;
+}
+.title-product-li{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.laptop-item-icon img{
+    width: 100px;
+}
